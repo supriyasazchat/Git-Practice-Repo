@@ -1,0 +1,3 @@
+This file is cretaed to test .gitignore feature.
+This wont be excluded from traking but would be compared iwth excluded content type.
+The exclusion we are doing is for .txt files and directory named dir1.
