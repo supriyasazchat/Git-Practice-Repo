@@ -1,0 +1,4 @@
+This file is created to test .gitignore feature.
+This is a test file and will be excluded from tracking.
+
+Adding line to test teh exclusion
